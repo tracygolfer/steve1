@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update table="sys_number">
     <sys_number action="INSERT_OR_UPDATE">
-        <category display_value="" name="x_steve1_field1">x_steve1_field1</category>
+        <category display_value="" name="x_steve1_table1">x_steve1_table1</category>
         <maximum_digits>7</maximum_digits>
         <number>1000</number>
-        <prefix>FIE</prefix>
+        <prefix>TAB</prefix>
         <sys_class_name>sys_number</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2016-05-17 21:26:35</sys_created_on>
+        <sys_created_on>2016-05-17 21:29:10</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
-        <sys_id>615f2580dc2312007f4476215c47b0cd</sys_id>
+        <sys_id>a3efa580dc2312007f4476215c47b0d7</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>FIE</sys_name>
+        <sys_name>TAB</sys_name>
         <sys_package display_value="steve1" source="x_steve1">709dad40dc2312007f4476215c47b03f</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="steve1">709dad40dc2312007f4476215c47b03f</sys_scope>
-        <sys_update_name>sys_number_615f2580dc2312007f4476215c47b0cd</sys_update_name>
+        <sys_update_name>sys_number_a3efa580dc2312007f4476215c47b0d7</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2016-05-17 21:26:35</sys_updated_on>
+        <sys_updated_on>2016-05-17 21:29:10</sys_updated_on>
     </sys_number>
 </record_update>
